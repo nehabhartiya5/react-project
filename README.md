@@ -33,3 +33,5 @@ To fix any linting or formatting issues across all relevant files, run this comm
 ```sh
 npm run fix
 ```
+
+Project deployed on Netlify
